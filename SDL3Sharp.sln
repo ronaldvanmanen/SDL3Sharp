@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL3Sharp", "SDL3Sharp\SDL3Sharp.csproj", "{9F3DF8C6-2859-4352-BFDD-E75DC886A09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3DF8C6-2859-4352-BFDD-E75DC886A09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3DF8C6-2859-4352-BFDD-E75DC886A09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3DF8C6-2859-4352-BFDD-E75DC886A09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3DF8C6-2859-4352-BFDD-E75DC886A09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18769B51-4281-4A19-8773-12ECE25C4267}
+	EndGlobalSection
+EndGlobal
